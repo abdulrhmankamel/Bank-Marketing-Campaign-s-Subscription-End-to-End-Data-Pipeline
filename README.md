@@ -42,4 +42,4 @@ using this following services:
 > Total cost around 51$ out of 300$ free credits that GCP provided
 
 ## Resources
-[Slides and Jobdesc](https://bit.ly/FinalProject-KuliDataWarrior)
+[Slides and Jobdesc]([https://bit.ly/FinalProject-KuliDataWarrior](https://drive.google.com/drive/folders/1_fRBuwAxjo18IHKf2lvBt6mOIva6hJ6f?usp=sharing))
