@@ -43,9 +43,3 @@ using this following services:
 
 ## Resources
 [Slides and Jobdesc](https://bit.ly/FinalProject-KuliDataWarrior)
-
-## Kelompok 5 Kuli Data Warrior
-- Naufal Aldy Pradana
-- Yuditya Mulia Insani
-- Adrian Maulana Muhammad
-- Yuda Satria Syaifi
